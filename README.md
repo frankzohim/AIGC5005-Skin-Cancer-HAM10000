@@ -27,6 +27,6 @@ cd YOUR_REPO
 pip install -r requirements.txt
 jupyter notebook Skin_Cancer_HAM10000_Final.ipynb
 
-**Team**  
+### Team 
 • Franklin Fofe Zohim – n10000571  
 • Nassor Mmanga Omar Dadi  – n01771186
