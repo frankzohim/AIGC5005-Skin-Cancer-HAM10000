@@ -28,5 +28,5 @@ pip install -r requirements.txt
 jupyter notebook Skin_Cancer_HAM10000_Final.ipynb
 
 **Team**  
-• Franklin Fofe Zohim – Student ID  
-• Nassor Mmanga Omar Dadi  – Student ID
+• Franklin Fofe Zohim – n10000571  
+• Nassor Mmanga Omar Dadi  – n01771186
