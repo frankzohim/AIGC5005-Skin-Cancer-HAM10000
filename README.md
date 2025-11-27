@@ -20,13 +20,14 @@ Multi-class classification of 7 types of pigmented skin lesions using the HAM100
 - `requirements.txt` – All dependencies
 - `data/` – Preprocessed & resized images (256×256, ~720 MB total)
 
-### How to Run
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-pip install -r requirements.txt
-jupyter notebook Skin_Cancer_HAM10000_Final.ipynb
 
+### How to Run
+    ```bash
+- git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+- cd YOUR_REPO
+- pip install -r requirements.txt
+- jupyter notebook Skin_Cancer_HAM10000_Final.ipynb
+  
 ### Team 
-• Franklin Fofe Zohim – n10000571  
-• Nassor Mmanga Omar Dadi  – n01771186
+- Franklin Fofe Zohim – n10000571 
+- NASSOR MMANGA OMAR DADI – n01771186
