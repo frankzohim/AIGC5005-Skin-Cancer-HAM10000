@@ -4,7 +4,8 @@
 Multi-class classification of 7 types of pigmented skin lesions using the HAM10000 dataset.
 
 ### Quick Links
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Skin_Cancer_HAM10000_Final.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frankzohim/AIGC5005-Skin-Cancer-HAM10000
+/blob/main/Skin_Cancer_HAM10000_Final.ipynb)
 
 ### Project Highlights
 - Dataset: HAM10000 – 10,015 dermoscopic images (public, Harvard Dataverse)
